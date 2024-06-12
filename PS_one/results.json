@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "add",
+        "input": [
+            5.0,
+            10.0
+        ],
+        "result": 15.0
+    },
+    {
+        "operation": "subtract",
+        "input": [
+            5.0,
+            10.0
+        ],
+        "result": -5.0
+    },
+    {
+        "operation": "multiply",
+        "input": [
+            5.0,
+            10.0
+        ],
+        "result": 50.0
+    },
+    {
+        "operation": "divide",
+        "input": [
+            5.0,
+            10.0
+        ],
+        "result": 0.5
+    },
+    {
+        "operation": "add",
+        "input": [
+            67.0,
+            40.0
+        ],
+        "result": 107.0
+    },
+    {
+        "operation": "subtract",
+        "input": [
+            67.0,
+            40.0
+        ],
+        "result": 27.0
+    },
+    {
+        "operation": "multiply",
+        "input": [
+            67.0,
+            40.0
+        ],
+        "result": 2680.0
+    },
+    {
+        "operation": "divide",
+        "input": [
+            67.0,
+            40.0
+        ],
+        "result": 1.675
+    }
+]
